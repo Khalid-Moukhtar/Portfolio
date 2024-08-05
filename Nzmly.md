@@ -18,6 +18,7 @@ In collaboration with the founder, I played a crucial role in enhancing Nzmly’
 - **Tools:** Clarity, Mixpanel, Google Suite
 
 **Key Features Developed:**
+
 - **User Personas and Stories:** Developed detailed user personas and stories to guide feature development and improve user engagement.
 - **Data-Driven Decision Making:** Leveraged Clarity and Mixpanel for data analysis, providing insights into user behavior and guiding product enhancements.
 - **Feedback Loop:** Established a robust feedback loop through user interviews and surveys, leading to actionable insights and continuous platform improvement.
@@ -37,4 +38,7 @@ The project is ongoing, with continuous efforts to refine and enhance the user e
 **Documents:**  
 - 🌐 [Nzmly.com](https://www.nzmly.com)
 - [Nzmly Themes Prioritization](https://github.com/user-attachments/files/16494886/Nzmly.Themes.Prioritization.pdf)
-- - <img width="292" alt="Screenshot 2024-06-28 160259" src="https://github.com/user-attachments/assets/5ff9e1e2-a7ff-4cf5-a4c3-9fe5b7e740f8">
+  
+  <img width="292" alt="Screenshot 2024-06-28 160259" src="https://github.com/user-attachments/assets/5ff9e1e2-a7ff-4cf5-a4c3-9fe5b7e740f8">
+
+  <img width="578" alt="Personas" src="https://github.com/user-attachments/assets/6f2cb8f3-e6f2-4920-872f-24c600d25511">
