@@ -39,8 +39,11 @@ As a Product Manager, I played a crucial role in the development and launch of S
 The project was completed as part of the CareerFoundry course, with the potential for further development based on user feedback and market trends.
 
 **Link or Demo:**  
-[Ideation & Prioritization](https://github.com/user-attachments/files/16495543/Task.2.5.Ideation.Prioritization.pdf)
-[Sync Product Solution](https://github.com/user-attachments/files/16495553/Task.2.6.Sync.Product.Solution.pdf)
-[Prototyping and testing](https://github.com/user-attachments/files/16495562/Task.3.2.Prototyping.and.testing.pdf)
-[A-B testing](https://github.com/user-attachments/files/16495572/Task.3.3.A-B.testing.pdf)
-[Task 3.5 PRD](https://github.com/user-attachments/files/16495580/Task.3.5.PRD.pdf)
+[Ideation & Prioritization](https://github.com/user-attachments/files/16495543/Task.2.5.Ideation.Prioritization.pdf) - 
+[Sync Product Solution](https://github.com/user-attachments/files/16495553/Task.2.6.Sync.Product.Solution.pdf) - 
+[Prototyping and testing](https://github.com/user-attachments/files/16495562/Task.3.2.Prototyping.and.testing.pdf) - 
+[A-B testing](https://github.com/user-attachments/files/16495572/Task.3.3.A-B.testing.pdf) - 
+[Sync PRD](https://github.com/user-attachments/files/16495580/Task.3.5.PRD.pdf) - 
+[User Research findings](https://github.com/user-attachments/files/16503376/Task.2.4.Research.findings.pdf) - 
+[Data Analysis](https://github.com/user-attachments/files/16503374/Task.2.3.Data.Analysis.pdf)
+
