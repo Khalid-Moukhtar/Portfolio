@@ -1,6 +1,6 @@
 # Case Study: The Potential for Zombie Movies in the Middle East 🎬🧟‍♂️
 
-## The Egyptian Film Industry: A Cinematic Powerhouse
+## The Egyptian Film Industry: A Cinematic Powerhouse 
 
 When it comes to cinema in the Middle East, Egypt stands as a giant, often hailed as the "Hollywood of the Middle East." With a rich cinematic history dating back to the early 20th century, Egypt has been at the forefront of Arab cinema. During the golden age of Egyptian cinema, particularly in the 1950s, it was the world's third-largest film producer ([We See You Magazine](https://www.weseeyoumagazine.com/feature/the-rise-of-egyptian-cinema)).
 
