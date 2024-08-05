@@ -139,5 +139,5 @@ As the Head of the SEMEA Department, I played a pivotal role in launching and pr
 ## Contact 📫
 
 - **Email:** [khalid.moukhtar@gmail.com](mailto:khalid.moukhtar@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/khalid-moukhtar/)
   
