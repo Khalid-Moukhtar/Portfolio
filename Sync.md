@@ -40,6 +40,7 @@ As a Product Manager, I played a crucial role in the development and launch of S
 The project was completed as part of the CareerFoundry course, with the potential for further development based on user feedback and market trends.
 
 **Documents:**  📁
+
 [Ideation & Prioritization](https://github.com/user-attachments/files/16495543/Task.2.5.Ideation.Prioritization.pdf) - 
 [Sync Product Solution](https://github.com/user-attachments/files/16495553/Task.2.6.Sync.Product.Solution.pdf) - 
 [Prototyping and testing](https://github.com/user-attachments/files/16495562/Task.3.2.Prototyping.and.testing.pdf) - 
