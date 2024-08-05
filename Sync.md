@@ -1,6 +1,7 @@
 ### Sync: Video Conferencing Software 💻
 
 **Description:**  ✍️
+
 Sync is a video conferencing software solution designed to facilitate seamless and reliable communication for businesses and individuals. The software enhances remote collaboration by providing a user-friendly interface and robust features that cater to modern virtual meeting needs.
 
 **Role:**  👨‍🏭
