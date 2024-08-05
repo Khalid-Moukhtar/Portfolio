@@ -1,9 +1,11 @@
 ### Customer Onboarding and User Experience for Nzmly 📝
 
-**Description:**  
+**Description:**  ✍️
+
 Nzmly is a business communication platform that simplifies scheduling, payments, and client interactions for freelance instructors, coaches, and therapists. The platform eliminates traditional scheduling hassles, allowing users to streamline bookings and receive payments seamlessly. Key features include personal booking links, instant payments, seamless integrations with tools like Zoom and Google Meet, and support for various local payment methods.
 
-**Role:**  
+**Role:**  👷‍♂️
+
 In collaboration with the founder, I played a crucial role in enhancing Nzmly’s user experience and onboarding process. My contributions included:
 
 - **Customer Sign-Up and Onboarding:** Developed and implemented an intuitive onboarding process to improve user engagement and retention. Focused on building trust and facilitating smooth transitions for new users.
@@ -12,7 +14,7 @@ In collaboration with the founder, I played a crucial role in enhancing Nzmly’
 - **Feature Development:** Proposed and prioritized new features based on user feedback and research findings, ensuring that they aligned with user needs and platform objectives.
 - **Documentation and Presentations:** Utilized Google Suite for creating documents and presentations that articulated the platform’s vision, user personas, and feature roadmaps. This facilitated clear communication with stakeholders and ensured alignment across teams.
 
-**Technologies Used:**  
+**Technologies Used:**  🧑‍💻
 - **Tools:** Clarity, Mixpanel, Google Suite
 
 **Key Features Developed:**
@@ -32,7 +34,7 @@ In collaboration with the founder, I played a crucial role in enhancing Nzmly’
 **Current Status:**  
 The project is ongoing, with continuous efforts to refine and enhance the user experience based on user feedback and evolving market trends.
 
-**Link or Demo:**  
-- 🌐 [Nzmly Website](https://www.nzmly.com)
-- <img width="292" alt="Screenshot 2024-06-28 160259" src="https://github.com/user-attachments/assets/5ff9e1e2-a7ff-4cf5-a4c3-9fe5b7e740f8">
-- [Nzmly Themes Prioritization.pdf](https://github.com/user-attachments/files/16494886/Nzmly.Themes.Prioritization.pdf)
+**Documents:**  
+- 🌐 [Nzmly.com](https://www.nzmly.com)
+- [Nzmly Themes Prioritization](https://github.com/user-attachments/files/16494886/Nzmly.Themes.Prioritization.pdf)
+- - <img width="292" alt="Screenshot 2024-06-28 160259" src="https://github.com/user-attachments/assets/5ff9e1e2-a7ff-4cf5-a4c3-9fe5b7e740f8">
