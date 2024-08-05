@@ -20,10 +20,6 @@ Welcome to my GitHub portfolio! I'm Khalid Ahmed, a product manager and creative
 
 ---
 
-### [Movie Script: The Plague 🎬](The-Plague.md)
-
----
-
 ### [Ezeep Printing Management Solution 🖨️](Ezeep.md)
 
 ---
@@ -33,6 +29,11 @@ Welcome to my GitHub portfolio! I'm Khalid Ahmed, a product manager and creative
 ---
 
 ### [MakeYourMaps: Custom Map Solution 🌍](MakeYourMaps.md)
+
+---
+## Personal Projects 🧑‍🦱
+
+### [Movie Script: The Plague 🎬](The-Plague.md)
 
 ---
 ## Case Studies 💼
