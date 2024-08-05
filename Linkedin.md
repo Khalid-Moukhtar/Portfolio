@@ -38,4 +38,3 @@ In a globalized job market, where language skills are more important than ever, 
 
 ---
 
-**Do you have thoughts or experiences with LinkedIn’s job search features? Feel free to share them! Your feedback is valuable in understanding how these changes could impact the LinkedIn community.**
