@@ -52,6 +52,8 @@ The project is ongoing, with continuous efforts to refine and enhance the user e
 
 **Link or Demo:**  
 - 🌐 [Nzmly Website](https://www.nzmly.com)
+- <img width="292" alt="Screenshot 2024-06-28 160259" src="https://github.com/user-attachments/assets/5ff9e1e2-a7ff-4cf5-a4c3-9fe5b7e740f8">
+- [Nzmly Themes Prioritization.pdf](https://github.com/user-attachments/files/16494886/Nzmly.Themes.Prioritization.pdf)
 
 ---
 
@@ -96,6 +98,7 @@ The script is currently in negotiation to be produced in Egypt, attracting inter
 **Link or Demo:**  
 - 📄 Currently, no public excerpts are available, but the script is under consideration for production.
 
+- [The Plague intro.pdf](https://github.com/user-attachments/files/16495280/The.Plague.intro.pdf)
 ---
 
 ### Ezeep Printing Management Solution 🖨️
@@ -137,3 +140,4 @@ As the Head of the SEMEA Department, I played a pivotal role in launching and pr
 
 - **Email:** [khalid.moukhtar@gmail.com](mailto:khalid.moukhtar@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+  
