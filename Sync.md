@@ -4,6 +4,7 @@
 Sync is a video conferencing software solution designed to facilitate seamless and reliable communication for businesses and individuals. The software enhances remote collaboration by providing a user-friendly interface and robust features that cater to modern virtual meeting needs.
 
 **Role:**  👨‍🏭
+
 As a Product Manager, I played a crucial role in the development and launch of Sync. My responsibilities included:
 
 - **Stakeholder Analysis:** Analyzed stakeholder requirements to ensure the product aligned with business goals and user needs.
