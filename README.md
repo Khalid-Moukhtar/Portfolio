@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio! I'm Khalid Ahmed, a product manager and creative
 
 ## Projects
 
-### [Customer Onboarding and User Experience for Nzmly 📝](https://github.com/Khalid-Moukhtar/portfolio/tree/nzmly)
+### [Customer Onboarding and User Experience for Nzmly 📝](https://github.com/Khalid-Moukhtar/Portfolio.git)
 
 ---
 
