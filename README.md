@@ -1,4 +1,4 @@
-# Khalid Ahmed's Portfolio 🎨🚀
+# Khalid's Portfolio 🎨🚀
 
 Welcome to my GitHub portfolio! I'm Khalid Ahmed, a product manager and creative writer based in Berlin, Germany. I specialize in product growth, user engagement, and crafting compelling narratives.
 
