@@ -1,7 +1,7 @@
-# Case Study: Enhancing LinkedIn’s Job Search with a Preferred Language Filter
+# Case Study: Enhancing LinkedIn’s Job Search with a Language Filter
 
 ## Introduction
-This case study proposes a "Preferred Language" filter for LinkedIn's job search feature, addressing the needs of multilingual job seekers and businesses seeking language-specific talent. By bridging this gap, LinkedIn can improve user experience and reduce hiring inefficiencies.
+This case study proposes a "Language" filter for LinkedIn's job search feature, addressing the needs of multilingual job seekers and businesses seeking language-specific talent. By bridging this gap, LinkedIn can improve user experience and reduce hiring inefficiencies.
 
 ---
 
@@ -18,7 +18,7 @@ This case study proposes a "Preferred Language" filter for LinkedIn's job search
 ---
 
 ## Proposed Solution
-A "Preferred Language" filter in LinkedIn’s job search tool that allows job seekers to filter opportunities by required languages and businesses to tag postings with language requirements.
+A "Language" filter in LinkedIn’s job search tool that allows job seekers to filter opportunities by required languages and businesses to tag postings with language requirements.
 
 ### Key Features
 - **Job Seekers:** A filter to select one or more preferred languages.
@@ -28,13 +28,50 @@ A "Preferred Language" filter in LinkedIn’s job search tool that allows job se
 
 ## User Stories
 
+## Acceptance Criteria for User Stories
+
 ### For Job Seekers
-- "As a job seeker, I want to filter jobs by preferred language so that I can quickly find roles aligned with my skills."
-- "As a bilingual professional, I want to select multiple languages to explore broader opportunities."
+
+#### User Story 1
+**As a job seeker, I want to filter jobs by preferred language so that I can quickly find roles aligned with my skills.**
+
+**Acceptance Criteria:**
+- [ ] The "Preferred Language" filter is visible in the job search interface.
+- [ ] Users can select one or more languages from a dropdown or similar menu.
+- [ ] The job search results dynamically update based on the selected language(s).
+- [ ] Job postings without the specified language(s) are excluded from the results.
+- [ ] The filter settings persist during the session.
+
+#### User Story 2
+**As a bilingual professional, I want to select multiple languages to explore broader opportunities.**
+
+**Acceptance Criteria:**
+- [ ] Users can select multiple languages in the "Preferred Language" filter.
+- [ ] Job results include postings that match any of the selected languages.
+- [ ] Selected languages are displayed clearly for users to modify or remove.
+- [ ] The interface supports multiple selections without errors or conflicts.
+
+---
 
 ### For Businesses
-- "As a recruiter, I want to tag job postings with language requirements so that candidates with the right skills can find my listings easily."
-- "As an HR manager, I want to see analytics on how many candidates match our language requirements, so I can refine our hiring strategies."
+
+#### User Story 1
+**As a recruiter, I want to tag job postings with language requirements so that candidates with the right skills can find my listings easily.**
+
+**Acceptance Criteria:**
+- [ ] Recruiters can add required languages to job postings during the creation or editing process.
+- [ ] A clear field or dropdown menu is provided to specify required languages.
+- [ ] Tagged job postings are searchable using the "Preferred Language" filter.
+- [ ] Recruiters receive a confirmation that the language tags have been saved successfully.
+
+#### User Story 2
+**As an HR manager, I want to see analytics on how many candidates match our language requirements so I can refine our hiring strategies.**
+
+**Acceptance Criteria:**
+- [ ] Analytics are accessible via the recruiter dashboard.
+- [ ] Metrics include the number of job views, applications, and matches based on language requirements.
+- [ ] Reports can be filtered by job posting and specific languages.
+- [ ] Insights are presented in an easy-to-understand format (e.g., charts, summaries).
 
 ---
 
@@ -92,7 +129,7 @@ A "Preferred Language" filter in LinkedIn’s job search tool that allows job se
 |                          |                   | - Design tagging interface for recruiters (language tagging on job posts).                                   | - Initial prototypes for job seeker and recruiter interfaces.                                                       |
 |                          |                   | - Conduct usability testing with a targeted group (e.g., multilingual professionals and HR managers).        | - Testing insights report and refined prototypes.                                                                   |
 | **3. Development**       | 8 weeks          | - Backend: Enable tagging of job posts with language attributes and database integration for filtering.      | - Functional backend for tagging and filtering.                                                                    |
-|                          |                   | - Frontend: Develop and integrate "Preferred Language" filter for job search UI and job posting interface.   | - Frontend integration for job seekers and recruiters.                                                              |
+|                          |                   | - Frontend: Develop and integrate "Language" filter for job search UI and job posting interface.   | - Frontend integration for job seekers and recruiters.                                                              |
 |                          |                   | - Quality Assurance: Test the feature for functionality, compatibility, and performance on web and mobile.   | - QA testing report and bug fixes.                                                                                  |
 | **4. Launch**            | 2 weeks          | - Phase 1: Roll out the feature to a pilot region (e.g., multilingual markets like Europe or Southeast Asia). | - Pilot region launch.                                                                                              |
 |                          |                   | - Phase 2: Collect feedback and refine based on user input.                                                  | - Post-launch feedback and updates.                                                                                 |
@@ -100,19 +137,16 @@ A "Preferred Language" filter in LinkedIn’s job search tool that allows job se
 | **5. Post-Launch Metrics** | 1 month          | - Monitor engagement metrics (e.g., filter usage, job application rates, time-to-hire).                      | - Dashboard tracking key performance indicators.                                                                    |
 |                          |                   | - Gather additional feedback for future iterations.                                                         | - Suggestions for improvements or additional features.                                                              |
 
-
-
-
 ---
 
 ## Mockups
 
-### Job Seeker Interface
-- **Filter Placement:** Dropdown menu in the advanced job search settings.
+### For the Job Seeker Interface
+- **Filter Placement:** Dropdown menu in the advanced job search settings and a language button (shortcut) in the main job search page next to (All filters) button.
 - **Result View:** Jobs tagged with "Language Required" badges.
 
-### Recruiter Interface
-- **Tagging Placement:** Field to specify required languages when creating job postings.
+### For the Recruiter Interface
+- **Tagging Placement:** Field to specify required languages when creating job postings, must be filled by job poster.
 - **Analytics Dashboard:** Insights on how language tagging improves candidate matching.
 
 ---
@@ -135,4 +169,4 @@ A "Preferred Language" filter in LinkedIn’s job search tool that allows job se
 ---
 
 ## Conclusion
-The "Preferred Language" filter addresses a critical gap in LinkedIn’s job search ecosystem. By streamlining connections between multilingual talent and businesses, this feature enhances LinkedIn’s global usability and value proposition.
+The "Language" filter addresses a critical gap in LinkedIn’s job search ecosystem. By streamlining connections between multilingual talent and businesses, this feature enhances LinkedIn’s global usability and value proposition.
