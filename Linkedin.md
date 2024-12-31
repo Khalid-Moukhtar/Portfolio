@@ -83,11 +83,24 @@ A "Preferred Language" filter in LinkedIn’s job search tool that allows job se
 
 ## Timeline
 
-Research & Validation: 2 weeks
-Design & Prototyping: 4 weeks
-Development: 8 weeks
-Launch: 2 weeks
-Post-Launch Metrics: 1 month Total: ~16 weeks (4 months)
+| **Phase**               | **Duration**      | **Key Activities**                                                                                          | **Deliverables**                                                                                                     |
+|--------------------------|-------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **1. Research & Validation** | 2 weeks          | - Conduct surveys with job seekers and businesses.                                                          | - Survey insights report identifying demand.                                                                        |
+|                          |                   | - Analyze job postings for common language requirements.                                                    | - Data report on prevalence of language requirements in job postings.                                               |
+|                          |                   | - Benchmark similar features on competitor platforms.                                                       | - Competitor analysis report.                                                                                       |
+| **2. Design & Prototyping** | 4 weeks          | - Create wireframes for job seekers (language filter UI).                                                    | - Wireframes/mockups for job search and posting interfaces.                                                         |
+|                          |                   | - Design tagging interface for recruiters (language tagging on job posts).                                   | - Initial prototypes for job seeker and recruiter interfaces.                                                       |
+|                          |                   | - Conduct usability testing with a targeted group (e.g., multilingual professionals and HR managers).        | - Testing insights report and refined prototypes.                                                                   |
+| **3. Development**       | 8 weeks          | - Backend: Enable tagging of job posts with language attributes and database integration for filtering.      | - Functional backend for tagging and filtering.                                                                    |
+|                          |                   | - Frontend: Develop and integrate "Preferred Language" filter for job search UI and job posting interface.   | - Frontend integration for job seekers and recruiters.                                                              |
+|                          |                   | - Quality Assurance: Test the feature for functionality, compatibility, and performance on web and mobile.   | - QA testing report and bug fixes.                                                                                  |
+| **4. Launch**            | 2 weeks          | - Phase 1: Roll out the feature to a pilot region (e.g., multilingual markets like Europe or Southeast Asia). | - Pilot region launch.                                                                                              |
+|                          |                   | - Phase 2: Collect feedback and refine based on user input.                                                  | - Post-launch feedback and updates.                                                                                 |
+|                          |                   | - Phase 3: Full global rollout.                                                                              | - Feature live globally.                                                                                            |
+| **5. Post-Launch Metrics** | 1 month          | - Monitor engagement metrics (e.g., filter usage, job application rates, time-to-hire).                      | - Dashboard tracking key performance indicators.                                                                    |
+|                          |                   | - Gather additional feedback for future iterations.                                                         | - Suggestions for improvements or additional features.                                                              |
+
+
 
 
 ---
