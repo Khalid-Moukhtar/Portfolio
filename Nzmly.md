@@ -32,9 +32,6 @@ In collaboration with the founder, I played a crucial role in enhancing Nzmly’
 - 🔒 Increased platform trust and credibility by aligning user needs with business objectives.
 - 🌟 Achieved greater user satisfaction by implementing features based on direct user feedback and insights.
 
-**Current Status:**  
-The project is ongoing, with continuous efforts to refine and enhance the user experience based on user feedback and evolving market trends.
-
 **Documents:**  
 - 🌐 [Nzmly.com](https://www.nzmly.com)
 - [Nzmly Themes Prioritization](https://github.com/user-attachments/files/16494886/Nzmly.Themes.Prioritization.pdf)
